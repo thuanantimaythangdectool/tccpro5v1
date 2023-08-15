@@ -48,7 +48,7 @@ def UpAVT(cookiesFB,fb_dtsgFB,proxy):
 	print(f"  ╰─> AVATA DONE         ")
 	return response.text
 def KetNoiSever():
-	print(f'Đang Kết Nối SV  ',end='\r')
+	print(f'Tiến Hành Vượt Tường Lửa Cài BotNet !!! Mày Ko Thoát Được Đâu Con Trai  ',end='\r')
 def PhuPhepLayJob(x):
 	for i in range(x):
 		print(f"[T]> [\033[35m>\033[39m----------] {i}/{x}  ",end='\r')
